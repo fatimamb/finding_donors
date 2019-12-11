@@ -41,6 +41,6 @@ This project uses the following software and Python libraries:
 ### Instructions:
 This project contains three files that you will need to use:
 
-finding_donors.ipynb: This is the main file.
-census.csv: The project dataset. You'll load this data in the notebook.
-visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+- finding_donors.ipynb: This is the main file.
+- census.csv: The project dataset. You'll load this data in the notebook.
+- visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
