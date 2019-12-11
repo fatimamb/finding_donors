@@ -1,5 +1,4 @@
-# Data Scientist Nanodegree Program
-Project 1: Finding Donors for CharityML
+# Finding Donors for CharityML
 
 **Project Description**
 
@@ -29,3 +28,12 @@ with the original dataset hosted on UCI.
 - capital-loss: continuous. 
 - hours-per-week: continuous. 
 - native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+
+**Software and Libraries**
+This project uses the following software and Python libraries:
+
+Python
+NumPy
+pandas
+scikit-learn (v0.17)
+Matplotlib
